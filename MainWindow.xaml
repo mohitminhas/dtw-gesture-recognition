@@ -1,0 +1,76 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.SkeletonBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gesture Recognition Using Kinect" Height="630" Width="1328" Loaded="WindowLoaded" Closing="WindowClosing">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+        <Style TargetType="{x:Type Image}">
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+        </Style>
+        <Style TargetType="{x:Type CheckBox}" x:Key="SquareCheckBox" >
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type CheckBox}">
+                        <Grid>
+                            <StackPanel Orientation="Horizontal" Background="Transparent">
+                                <Grid x:Name="SquareCheckBoxChecked">
+                                    <Image x:Name="CheckedNormal" Source="Images\CheckedNormal.png" Stretch="None" HorizontalAlignment="Center"/>
+                                    <Image x:Name="CheckedHover" Source="Images\CheckedHover.png" Stretch="None" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                                </Grid>
+                                <Grid x:Name="SquareCheckBoxUnchecked" Visibility="Collapsed">
+                                    <Image x:Name="UncheckedNormal" Source="Images\UncheckedNormal.png" Stretch="None" HorizontalAlignment="Center"/>
+                                    <Image x:Name="UncheckedHover" Source="Images\UncheckedHover.png" Stretch="None" HorizontalAlignment="Center" Visibility="Collapsed"/>
+                                </Grid>
+                                <TextBlock x:Name="SquareCheckBoxText" Text="{TemplateBinding Content}" TextAlignment="Left"  VerticalAlignment="Center" Foreground="{StaticResource KinectPurpleBrush}" FontSize="15"  Margin="9,0,0,0"/>
+                            </StackPanel>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="false">
+                                <Setter Property="Visibility" Value="Collapsed" TargetName="SquareCheckBoxChecked"/>
+                                <Setter Property="Visibility" Value="Visible" TargetName="SquareCheckBoxUnchecked"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Visibility" Value="Collapsed" TargetName="CheckedNormal"/>
+                                <Setter Property="Visibility" Value="Collapsed" TargetName="UncheckedNormal"/>
+                                <Setter Property="Visibility" Value="Visible" TargetName="CheckedHover"/>
+                                <Setter Property="Visibility" Value="Visible" TargetName="UncheckedHover"/>
+                                <Setter Property="Foreground" Value="{StaticResource KinectBlueBrush}" TargetName="SquareCheckBoxText"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Name="layoutGrid" Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="59"/>
+            <RowDefinition Height="32" />
+            <RowDefinition Height="551*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <DockPanel Margin="0,0,0,12">
+            <Image Grid.Column="1" Source="Images\Status.png" Stretch="None" HorizontalAlignment="Center" Margin="0 0 0 5"/>
+            <Label Content="Gesture Recognition Using Kinect" Height="43" Name="label1" FontSize="20" FontWeight="Bold" FontStyle="Normal" />
+            <CheckBox Content="Train Mode" Height="Auto" Name="checkBox1" Style="{StaticResource SquareCheckBox}" Checked="checkBox1_Checked_1" Unchecked="checkBox1_Unchecked" />
+            <Label Height="35" Name="label2" FontSize="18" FontFamily="Segoe UI" Width="53" Foreground="Red" />
+        </DockPanel>
+        <Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center" Margin="0,8,0,0" Grid.RowSpan="2"></Viewbox>
+        <CheckBox Grid.Row="3" Style="{StaticResource SquareCheckBox}" Content="Seated Mode" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0 10 10 10" Name="checkBoxSeatedMode" Checked="CheckBoxSeatedModeChanged" Unchecked="CheckBoxSeatedModeChanged"/>
+        <StatusBar Grid.Row="4" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White" Foreground="{StaticResource MediumGreyBrush}">
+            <StatusBarItem Padding="0 0 0 10"></StatusBarItem>
+        </StatusBar>
+        <TextBox Grid.Row="3" Height="23" HorizontalAlignment="Right" Margin="0,11,83,0" Name="textBox1" VerticalAlignment="Top" Width="225" />
+        <Button Content="Start Recording" Grid.Row="3" Height="23" HorizontalAlignment="Right" Margin="0,10,1008,0" Name="button1" VerticalAlignment="Top" Width="100" Click="button1_Click" />
+        <Button Content="About" Grid.Row="3" Height="23" HorizontalAlignment="Right" Margin="0,10,12,0" Name="button4" VerticalAlignment="Top" Width="65" Click="button4_Click" />
+        <Image Name="Image" Width="640" Height="480" Margin="0,8,666,34" Grid.Row="1" Grid.RowSpan="3" />
+        <Image Grid.RowSpan="3" Height="480" Margin="654,8,12,34" Name="image1" Width="640" Grid.Row="1" />
+        <Label Content="Label" Grid.Row="2" HorizontalAlignment="Left" Margin="415,69,0,0" Name="label3" Width="463" FontSize="36" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Visibility="Hidden" Background="Red" Height="178" VerticalAlignment="Top" />
+        <Button Content="Restart Testing" Grid.Row="2" Height="43" HorizontalAlignment="Left" Margin="415,253,0,0" Name="button2" VerticalAlignment="Top" Width="464" Visibility="Hidden" FontSize="18" Click="button2_Click_1" />
+    </Grid>
+</Window>
