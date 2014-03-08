@@ -1,0 +1,54 @@
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\MainWindow.baml
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\MainWindow.g.cs
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\App.g.cs
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tarang\Desktop\Kinect examples\Gesture Recognition - CEERI Sop C# code\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\MainWindow.baml
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\MainWindow.g.cs
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\App.g.cs
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tarang\Desktop\Gesture Recognition - CEERI Sop C# code\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\Gesture Recognition - CEERI SOP.csprojResolveAssemblyReference.cache
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\MainWindow.baml
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\App.g.cs
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect\obj\Debug\Gesture Recognition - CEERI SOP.csproj.GenerateResource.Cache
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\Gesture Recognition - CEERI SOP.csprojResolveAssemblyReference.cache
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\MainWindow.baml
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\MainWindow.g.cs
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\App.g.cs
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect - Copy\obj\Debug\Gesture Recognition - CEERI SOP.csproj.GenerateResource.Cache
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect_2hands\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Dr. J L Raheja\Desktop\BITS Trainees\Gesture Recognition Using ‌Kinect_2hands\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Gesture Recognition Using ‌Kinect_2hands\obj\Debug\SkeletonBasics-WPF.exe
+E:\Gesture Recognition Using ‌Kinect_2hands\obj\Debug\SkeletonBasics-WPF.pdb
